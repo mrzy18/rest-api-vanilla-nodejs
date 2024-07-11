@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-vanilla-nodejs",
+  "version": "1.0.0",
+  "description": "belajar membuat rest api menggunakan vanilla nodejs tanpa framework ataupun library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch --env-file=.env server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api"
+  ],
+  "author": "Muhammad Rizky",
+  "license": "ISC",
+  "type": "module"
+}
